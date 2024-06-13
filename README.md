@@ -1,10 +1,10 @@
 Project Topic: Simple Store project using Angular (TypeScript)
 
 Dependecies used:
-FrontEnd: - primeng
-          - primeicons
+- FrontEnd: - primeng
+            - primeicons
 
-BackEnd: - cors
-         - express
-         - fs
+- BackEnd: - cors
+           - express
+           - fs
           
